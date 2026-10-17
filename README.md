@@ -173,3 +173,4 @@ As stated in the course brief:
 
 - **AI Tools Used:** ChatGPT, Gemini.
 - **How I Used It:** I used the assistant to help Pillow drawing coordinates, and double-column LaTeX layout formatting.
+# cse-307_term-paper-part-B-
